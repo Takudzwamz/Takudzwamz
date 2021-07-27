@@ -1,0 +1,77 @@
+### Hi there, I'm Takudzwa Mupanesure - aka [Sputnik Teck][website] 👋
+
+[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://takudzwam.live)
+[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/TakudzwaM6?s=08)
+
+## I'm a Junior Full Stack .Net Developer/Angular / Xamarin.Forms developer!!
+
+- 🌱 I’m learning something everyday, thats life after all🤣.
+- 👯 I’m looking to collaborate with other developers and designers.
+- 🥅 2021 Goals: Build more software solutions to solve real life problems.
+- ⚡ Fun fact: I love to skate and sing.
+
+## Languages spoken 3:
+
+-  Shona (Native).
+-  English.
+-  Russian languages.
+
+
+### Connect with me:
+
+[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+<br />
+
+### Languages and Tools:
+
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][]
+[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][]
+[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][]
+[<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />][]
+[<img align="left" alt="JavaScript" width="26px" src="https://miro.medium.com/max/1400/1*TpbxEQy4ckB-g31PwUQPlg.png" />][]
+[<img align="left" alt="React" width="26px" src="https://venturebeat.com/wp-content/uploads/2015/06/visual_studio_purple.png?resize=1200%2C600&strip=all" />][]
+[<img align="left" alt="Gatsby" width="26px" src="https://www.avenga.com/wp-content/uploads/2020/11/C-Sharp-1920x1080.png" />][]
+[<img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />][]
+[<img align="left" alt="Node.js" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Xamarin-logo.svg/220px-Xamarin-logo.svg.png" />][]
+[<img align="left" alt="Deno" width="26px" src="https://miro.medium.com/max/960/1*VKY-Ldkt-iHobItql7G_5w.png" />][]
+[<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][]
+[<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][]
+[<img align="left" alt="MongoDB" width="26px" src="https://soaringeagle.biz/wp-content/uploads/2020/03/ms-sql-server.png" />][]
+[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][]
+[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][]
+[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][]
+[<img align="left" alt="Terminal" width="26px" src="https://cdn.neow.in/news/images/uploaded/2020/11/1605027417_microsoft_net_story.jpg" />][]
+[<img align="left" alt="Terminal" width="26px" src="https://bloximages.newyork1.vip.townnews.com/redandblack.com/content/tncms/assets/v3/editorial/4/59/45940eb2-5403-11e9-a843-db0e4491cc90/5ca13d8453042.image.jpg?resize=960%2C640" />][]
+[<img align="left" alt="Terminal" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/DigitalOcean_logo.svg/150px-DigitalOcean_logo.svg.png" />][]
+
+
+<br />
+<br />
+
+---
+
+
+
+<!--START_SECTION:activity
+<details>
+  <summary>:zap: Recent GitHub Activity</summary>
+  
+
+1. 🗣 Commented on [#1](https://github.com/codeSTACKr/portfolio-sass/issues/1) in [codeSTACKr/portfolio-sass](https://github.com/codeSTACKr/portfolio-sass)
+2. 🎉 Merged PR [#1](https://github.com/codeSTACKr/portfolio-sass/pull/1) in [codeSTACKr/portfolio-sass](https://github.com/codeSTACKr/portfolio-sass)
+3. 🗣 Commented on [#10](https://github.com/codeSTACKr/codestackr-vscode-theme/issues/10) in [codeSTACKr/codestackr-vscode-theme](https://github.com/codeSTACKr/codestackr-vscode-theme)
+4. 🗣 Commented on [#11](https://github.com/codeSTACKr/codestackr-vscode-theme/issues/11) in [codeSTACKr/codestackr-vscode-theme](https://github.com/codeSTACKr/codestackr-vscode-theme)
+5. ❌ Closed PR [#1](https://github.com/codeSTACKr/spotify-now-playing/pull/1) in [codeSTACKr/spotify-now-playing](https://github.com/codeSTACKr/spotify-now-playing)
+
+
+</details>-->
+
+[website]: https://takudzwam.live
+[twitter]: https://twitter.com/TakudzwaM6?s=08
+[instagram]: https://www.instagram.com/takum1709/
+[linkedin]: https://www.linkedin.com/in/takudzwa-mupanesure-14a3321b7/
+
