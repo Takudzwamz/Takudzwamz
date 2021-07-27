@@ -1,7 +1,7 @@
 ### Hi there, I'm Takudzwa Mupanesure - aka [Sputnik Teck][website] 👋
 
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://takudzwam.live)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/TakudzwaM6?s=08)
+[![Website](https://img.shields.io/badge/-takudzwam.live-green)](https://takudzwam.live)
+[![Twitter Follow](https://img.shields.io/badge/twitter-follow%20Takudzwa%20Mupanesure-yellowgreen)](https://twitter.com/TakudzwaM6?s=08)
 
 ## I'm a Junior Full Stack .Net Developer/Angular / Xamarin.Forms developer!!
 
