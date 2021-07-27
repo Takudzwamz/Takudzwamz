@@ -5,10 +5,31 @@
 
 ## I'm a Junior Full Stack .Net Developer/Angular / Xamarin.Forms developer!!
 
-- 🌱 I’m learning something everyday, thats life after all🤣.
+- 🌱 I’m learning something new everyday, thats life after all🤣.
 - 👯 I’m looking to collaborate with other developers and designers.
 - 🥅 2021 Goals: Build more software solutions to solve real life problems.
 - ⚡ Fun fact: I love to skate and sing.
+
+## Proffessional Summary
+
+- Dedicated and efficient full stack Junior .NET developer with 2+ years of experience in the .Net environment. Skilled in ASP.NET Core, Xamarin.Forms(Mobile development for both iOS and Android) and client-side web development(Angular single page applications).
+- Worked on 7+ projects for both web and mobile app platforms.
+- Developed, deployed and maintaining over 5 .NET/Xamarin.Forms/Angular web and mobile apps with good client satisfaction.
+-  I'm always looking to learn new things all the time for I believe the day I stop learning is the day I stop being innovative.
+-  I believe learning by doing is the best way to learn hence I work torwards creating as many projects as I can hence improving my skills.
+-  I believe in team work(Hello Github!) since one man can't change the world but two or more people can.
+---
+
+### My education and experience
+
+- Sept 2016 to July 2020: B.Sc IN FUNDAMENTAL COMPUTER SCIENCE AND IT, Voronezh State University,
+Voronezh Oblast, Russian Federation.
+- Sept 2019 to Aug 2020: MOBILE DEVELOPMENT INTERN, DataArt R&D Center Voronezh
+Voronezh Oblast, Russian Federation.
+- October 2020 to present: JUNIOR .NET FULL STACK DEVELOPER, Freelancing
+Johannesburg, South Africa.
+
+---
 
 ## Languages spoken 3:
 
