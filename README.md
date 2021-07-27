@@ -74,6 +74,8 @@ Johannesburg, South Africa.
 <br />
 
 ---
+[![Takudzwa's GitHub stats](https://github-readme-stats.vercel.app/api?username=Takudzwamz&hide=stars,issues,contribs)](https://github.com/Takudzwamz/github-readme-stats)
+
 [![Takudzwa's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Takudzwamz&hide=stars,issues,contribs&count_private=true&show_icons=true&theme=cobalt&langs_count=15)](https://github.com/Takudzwamz/github-readme-stats)
 
 
