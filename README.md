@@ -6,7 +6,7 @@
 ## I'm a Junior Full Stack .Net / Angular / Xamarin.Forms / .Net MAUI(Soon😁) developer!!
 
 - 🌱 I’m learning something new everyday, thats life after all🤣.
-- 👯 I’m looking to collaborate with other developers and designers.
+- 🤝 I’m looking to collaborate with other developers and designers.
 - 🥅 2021 Goals: Build more software solutions to solve real life problems.
 - ⚡ Fun fact: I love to skate and sing.
 
