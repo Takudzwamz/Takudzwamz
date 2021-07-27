@@ -1,4 +1,15 @@
-### Hi there, I'm Takudzwa Mupanesure - aka [Sputnik Teck][website] 👋
+<!-- "Hero" Header -->
+<div align="center">
+  <img src="https://github.com/BrunnerLivio/brunnerlivio/blob/master/images/welcome.png?raw=true" style="max-width: 100%;" alt="Welcome to my Github Profile" />
+  <br />
+  <br />
+  <img height="50" alt="My Name is Livio and I like Node.js" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/personal_note.svg" />
+  <br />
+  <br />
+
+</div>
+
+### Hi there, I'm Takudzwa Mupanesure - aka [Sputnik Tech][website] 👋
 
 [![Website](https://img.shields.io/badge/-takudzwam.live-green)](https://takudzwam.live)
 [![Twitter Follow](https://img.shields.io/badge/twitter-follow%20Takudzwa%20Mupanesure-yellowgreen)](https://twitter.com/TakudzwaM6?s=08)
@@ -31,14 +42,14 @@ Johannesburg, South Africa.
 
 ---
 
-## Languages spoken 3:
+## Languages spoken 3
 
 -  Shona (Native).
 -  English.
 -  Russian languages.
 
 
-### Connect with me:
+### Connect with me
 
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
@@ -47,7 +58,7 @@ Johannesburg, South Africa.
 
 <br />
 
-### Languages and Tools:
+### Languages and Tools
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
@@ -73,7 +84,7 @@ Johannesburg, South Africa.
 <br />
 <br />
 
----
+
 [![Takudzwa's GitHub stats](https://github-readme-stats.vercel.app/api?username=Takudzwamz&hide=stars,issues,contribs&theme=radical)](https://github.com/Takudzwamz/github-readme-stats)
 
 [![Takudzwa's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Takudzwamz&hide=stars,issues,contribs&count_private=true&show_icons=true&theme=cobalt&langs_count=15)](https://github.com/Takudzwamz/github-readme-stats)
