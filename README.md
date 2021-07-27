@@ -3,7 +3,7 @@
 [![Website](https://img.shields.io/badge/-takudzwam.live-green)](https://takudzwam.live)
 [![Twitter Follow](https://img.shields.io/badge/twitter-follow%20Takudzwa%20Mupanesure-yellowgreen)](https://twitter.com/TakudzwaM6?s=08)
 
-## I'm a Junior Full Stack .Net Developer/Angular / Xamarin.Forms developer!!
+## I'm a Junior Full Stack .Net / Angular / Xamarin.Forms developer!!
 
 - 🌱 I’m learning something new everyday, thats life after all🤣.
 - 👯 I’m looking to collaborate with other developers and designers.
