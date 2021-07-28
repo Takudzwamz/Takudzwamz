@@ -34,12 +34,12 @@
 Voronezh Oblast, Russian Federation.
 - Sept 2019 to Aug 2020: MOBILE DEVELOPMENT INTERN, DataArt R&D Center Voronezh
 Voronezh Oblast, Russian Federation.
-- October 2020 to present: JUNIOR .NET FULL STACK DEVELOPER, Freelancing
+- Oct 2020 to present: JUNIOR .NET FULL STACK DEVELOPER, Freelancing
 Johannesburg, South Africa.
 
 ---
 
-## Languages spoken 3
+## Languages spoken
 
 -  Shona (Native).
 -  English.
