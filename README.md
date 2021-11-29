@@ -22,7 +22,7 @@
 
 ## Proffessional Summary
 
-- Dedicated and efficient full stack Junior .NET developer with 2+ years of experience in the .Net environment. Skilled in .NET Core, Xamarin.Forms(Mobile development for both iOS and Android) and client-side web development(Angular single page applications).
+- Dedicated and efficient full stack .NET developer with 2+ years of experience in the .Net environment. Skilled in .NET Core, Xamarin.Forms(Mobile development for both iOS and Android) and client-side web development(Angular single page applications).
 -  I'm always looking to learn new things all the time for I believe the day I stop learning is the day I stop being innovative.
 -  I believe learning by doing is the best way to learn hence I work torwards creating as many projects as I can hence improving my skills.
 -  I believe in team work(Hello Github!) since one man can't change the world but two or more people can.
