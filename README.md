@@ -8,7 +8,7 @@
 ### Hi there, I'm Takudzwa Mupanesure - aka [Sputnik Tech][website] 👋
 
 [![Website](https://img.shields.io/badge/-takudzwam.live-green)](https://takudzwam.live)
-[![Twitter Follow](https://img.shields.io/badge/twitter-follow%20Takudzwa%20Mupanesure-yellowgreen)](https://twitter.com/TakudzwaM6?s=08)
+[![Twitter Follow](https://img.shields.io/badge/twitter-follow%20Takudzwa%20Mupanesure-yellowgreen)](https://twitter.com/TMupanesure?t=ZEnXP3JabAYEfkYaQlVR-A&s=09)
 
 ## I'm a Full Stack .Net / Angular / Xamarin.Forms / .Net MAUI(Soon😁) developer!!
 
@@ -18,7 +18,7 @@
 - ⚡ Fun fact: I love to skate and sing.
 
 ## Skills
- C# / TypeScript / SQL/ HTML / CSS/ SCSS/ Angular/ .NET Core/ Xamarin.Forms/ Git,Github/ Digital Ocean/ Linux(Ubuntu server)/Docker/Kubernetes.
+ .NET (C#)/ TypeScript(Angular) / SQL/ HTML / CSS/  SCSS/  Xamarin.Forms/  Git,Github/  Digital Ocean/  Linux(Ubuntu server)/  Docker/  Kubernetes.
 
 ## Proffessional Summary
 
