@@ -102,7 +102,7 @@ Johannesburg, South Africa.
 
 </details>-->
 
-[website]: https://takudzwam.live
+[website]: https://sputniktech.co
 [twitter]: https://twitter.com/TakudzwaM6?s=08
 [instagram]: https://www.instagram.com/takum1709/
 [linkedin]: https://www.linkedin.com/in/takudzwa-mupanesure-14a3321b7/
