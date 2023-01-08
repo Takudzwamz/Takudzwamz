@@ -5,9 +5,9 @@
 
 </div>
 
-### Hi there, I'm Takudzwa Mupanesure - aka [Sputnik Tech][website] 👋
+### Hi there, I'm Takudzwa Mupanesure - Founder of [Sputnik Tech][website] 👋
 
-[![Website](https://img.shields.io/badge/-takudzwam.live-green)](https://takudzwam.live)
+[![Website](https://img.shields.io/badge/-sputniktech.co-green)](https://sputniktech.co)
 [![Twitter Follow](https://img.shields.io/badge/twitter-follow%20Takudzwa%20Mupanesure-yellowgreen)](https://twitter.com/TMupanesure?t=ZEnXP3JabAYEfkYaQlVR-A&s=09)
 
 ## I'm a Full Stack .Net / Angular / Xamarin.Forms /developer!!
