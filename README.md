@@ -14,11 +14,11 @@
 
 - 🌱 I’m learning something new everyday, thats life after all.
 - 🤝 I’m looking to collaborate with other developers and designers.
-- 🥅 2023 Goals: Grow my Startup Company .
+- 🥅 2024 Goals: Grow my Startup Company .
 - ⚡ Fun fact: I love to skate and sing.
 
 ## Skills
- .NET (C#)/ TypeScript(Angular) / SQL/ HTML / CSS/  SCSS/  Xamarin.Forms/  Git,Github/  Digital Ocean/  Linux(Ubuntu server)/  Docker/  Kubernetes.
+ .NET (C#)/ TypeScript(Angular) / SQL/ HTML / CSS/ Python/ Flutter(Dart)/ SCSS/  Xamarin.Forms/  Git,Github/  Digital Ocean/  Linux(Ubuntu server)/  Docker/  Kubernetes.
 
 ## Proffessional Summary
 
