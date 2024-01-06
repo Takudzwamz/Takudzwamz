@@ -10,19 +10,19 @@
 [![Website](https://img.shields.io/badge/-sputniktech.co-green)](https://sputniktech.co)
 [![Twitter Follow](https://img.shields.io/badge/twitter-follow%20Takudzwa%20Mupanesure-yellowgreen)](https://twitter.com/TMupanesure?t=ZEnXP3JabAYEfkYaQlVR-A&s=09)
 
-## I'm a Full Stack .Net / Angular / Xamarin.Forms /developer!!
+## Besides being CEO, I double down as a Full Stack developer well!!
 
-- 🌱 I’m learning something new everyday, thats life after all.
+- 🌱 I’m learning something new every day, that's life after all.
 - 🤝 I’m looking to collaborate with other developers and designers.
-- 🥅 2024 Goals: Grow my Startup Company .
+- 🥅 2024 Goals: Grow Sputnik Tech.
 - ⚡ Fun fact: I love to skate and sing.
 
 ## Skills
  .NET (C#)/ TypeScript(Angular) / SQL/ HTML / CSS/ Python/ Flutter(Dart)/ SCSS/  Xamarin.Forms/  Git,Github/  Digital Ocean/  Linux(Ubuntu server)/  Docker/  Kubernetes.
 
 ## Professional Summary
-
-- Dedicated and efficient full stack .NET developer with 2+ years of experience in the .Net environment. Skilled in .NET Core, Xamarin.Forms(Mobile development for both iOS and Android) and client-side web development(Angular single page applications).
+- Dedicated leader and founder of Sputnik Tech, whose goal is to propel it into greatness.
+- Dedicated and efficient full-stack developer with 3+ years of experience. 
 -  I'm always looking to learn new things all the time for I believe the day I stop learning is the day I stop being innovative.
 -  I believe learning by doing is the best way to learn hence I work toward creating as many projects as I can hence improving my skills.
 -  I believe in teamwork (Hello Github!) since one man can't change the world but two or more people can.
