@@ -5,7 +5,7 @@
 
 </div>
 
-### Hi there, I'm Takudzwa Mupanesure - Founder of [Sputnik Tech][website] 👋
+### Hi there, I'm Takudzwa Mupanesure - CEO and Co-founder of [Sputnik Tech][website] 👋
 
 [![Website](https://img.shields.io/badge/-sputniktech.co-green)](https://sputniktech.co)
 [![Twitter Follow](https://img.shields.io/badge/twitter-follow%20Takudzwa%20Mupanesure-yellowgreen)](https://twitter.com/TMupanesure?t=ZEnXP3JabAYEfkYaQlVR-A&s=09)
@@ -20,22 +20,21 @@
 ## Skills
  .NET (C#)/ TypeScript(Angular) / SQL/ HTML / CSS/ Python/ Flutter(Dart)/ SCSS/  Xamarin.Forms/  Git,Github/  Digital Ocean/  Linux(Ubuntu server)/  Docker/  Kubernetes.
 
-## Proffessional Summary
+## Professional Summary
 
 - Dedicated and efficient full stack .NET developer with 2+ years of experience in the .Net environment. Skilled in .NET Core, Xamarin.Forms(Mobile development for both iOS and Android) and client-side web development(Angular single page applications).
 -  I'm always looking to learn new things all the time for I believe the day I stop learning is the day I stop being innovative.
--  I believe learning by doing is the best way to learn hence I work torwards creating as many projects as I can hence improving my skills.
--  I believe in team work(Hello Github!) since one man can't change the world but two or more people can.
+-  I believe learning by doing is the best way to learn hence I work toward creating as many projects as I can hence improving my skills.
+-  I believe in teamwork (Hello Github!) since one man can't change the world but two or more people can.
 ---
 
 ### My education and experience
 
-- Sept 2016 to July 2020: B.Sc IN FUNDAMENTAL COMPUTER SCIENCE AND IT, Voronezh State University,
-Voronezh Oblast, Russian Federation.
-- Sept 2019 to Aug 2020: MOBILE DEVELOPMENT INTERN, DataArt R&D Center Voronezh
-Voronezh Oblast, Russian Federation.
-- Oct 2020 to present: JUNIOR .NET FULL STACK DEVELOPER, Freelancing
-Johannesburg, South Africa.
+- Sept 2016 to July 2020: B.Sc IN FUNDAMENTAL COMPUTER SCIENCE AND IT, Voronezh State University
+- Sept 2019 to Aug 2020: MOBILE DEVELOPMENT INTERN, DataArt R&D Center 
+- Sept 2022 to July 2024(ongoing) M. Sc. in Artificial Intelligence and Big Data, Saint Petersburg State University
+- Oct 2020 to present: FULL STACK DEVELOPER at [Sputnik Tech][website]
+- May 2023 to present: CEO and Co-founder of [Sputnik Tech][website]
 
 ---
 
