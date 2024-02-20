@@ -13,7 +13,7 @@
 ## Besides being CEO, I double down as a Full Stack developer as well!!
 
 - 🌱 I’m learning something new every day, that's life after all.
-- 🤝 I’m looking to collaborate with other developers and designers.
+- 🤝 I’m looking to implement my Artificial intelligence and Big Data knowledge in real-world software products.
 - 🥅 2024 Goals: Grow Sputnik Tech.
 - ⚡ Fun fact: I love to skate and sing.
 
