@@ -14,7 +14,7 @@
 
 - 🌱 I’m learning something new every day, that's life after all.
 - 🤝 I’m looking to implement my Artificial intelligence and Big Data knowledge in real-world software products.
-- 🥅 2024 Goals: Grow Sputnik Tech.
+- 🥅 2024 Goals: Grow [Sputnik Tech][website].
 - ⚡ Fun fact: I love to skate and sing.
 
 ## Skills
@@ -30,9 +30,8 @@
 
 ### My education and experience
 
-- Sept 2016 to July 2020: B.Sc IN FUNDAMENTAL COMPUTER SCIENCE AND IT, Voronezh State University
-- Sept 2019 to Aug 2020: MOBILE DEVELOPMENT INTERN, DataArt R&D Center 
-- Sept 2022 to July 2024(ongoing) M. Sc. in Artificial Intelligence and Big Data, Saint Petersburg State University
+- Sept 2016 to July 2020: **B.Sc. in Fundamental Computer Science and Information Technologies**, *Voronezh State University*
+- Sept 2022 to July 2024: **M.Sc. in Artificial Intelligence and Big Data Technologies**, *Saint Petersburg State University*
 - Oct 2020 to present: FULL STACK DEVELOPER at [Sputnik Tech][website]
 - May 2023 to present: CEO and Co-founder of [Sputnik Tech][website]
 
