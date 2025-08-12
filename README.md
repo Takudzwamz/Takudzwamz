@@ -13,8 +13,8 @@
 ## Besides being CEO, I double down as a Full Stack developer as well!!
 
 - 🌱 I’m learning something new every day, that's life after all.
-- 🤝 I’m looking to implement my Artificial intelligence and Big Data knowledge in real-world software products.
-- 🥅 2024 Goals: Grow [Sputnik Tech][website].
+- 🤝 I’m looking to implement my Artificial Intelligence and Big Data knowledge in real-world software products.
+- 🥅 2025 Goals: Grow [Sputnik Tech][website].
 - ⚡ Fun fact: I love to skate and sing.
 
 ## Skills
@@ -23,9 +23,9 @@
 ## Professional Summary
 - Dedicated leader and founder of Sputnik Tech, whose goal is to propel it into greatness.
 - Dedicated and efficient full-stack developer with 3+ years of experience. 
--  I'm always looking to learn new things all the time for I believe the day I stop learning is the day I stop being innovative.
--  I believe learning by doing is the best way to learn hence I work toward creating as many projects as I can hence improving my skills.
--  I believe in teamwork (Hello Github!) since one man can't change the world but two or more people can.
+-  I'm always looking to learn new things all the time, for I believe the day I stop learning is the day I stop being innovative.
+-  I believe learning by doing is the best way to learn, hence I work toward creating as many projects as I can hence improving my skills.
+-  I believe in teamwork (Hello Github!) since one man can't change the worl,d but two or more people can.
 ---
 
 ### My education and experience
